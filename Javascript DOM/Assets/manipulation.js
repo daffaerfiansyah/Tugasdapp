@@ -1,4 +1,4 @@
-// 2. DOM MANIPULATION
+// 2. DOM MANIPULATION PART I
 // MANIPULATION ELEMENT
 
 // A. element.innerHTML (Mengubah seluruh tag HTML yang diinginkan)
